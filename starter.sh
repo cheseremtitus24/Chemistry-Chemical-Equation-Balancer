@@ -1,1 +1,1 @@
-pip install sympy && sudo apt install nuitka -y && nuitka3 main.py --static-libpython=no 
+pip install sympy && sudo apt install nuitka -y && echo "Building our project and compiling as binaries" && nuitka3 chemicalequationbalancer.py --static-libpython=no -o chemicalequationbalancer --quiet  && nuitka3 molcalc.py --static-libpython=no -o molcalc --quiet && rm -r chemicalequationbalancer.build && rm -r molcalc.build
