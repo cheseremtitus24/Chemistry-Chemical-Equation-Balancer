@@ -24,6 +24,11 @@ pip install sympy molmass
 
 chmod +x starter.sh && ./starter.sh
 
+./molcalc NaCl 
+or 
+./chemicalequationbalancer
+
+
 
 # Youtube Videos
 
