@@ -22,8 +22,7 @@ Products: N2O2
 
 pip install sympy molmass
 
-chmod +x starter.sh
-./starter.sh
+chmod +x starter.sh && ./starter.sh
 
 
 # Youtube Videos
