@@ -33,7 +33,7 @@ or
 # Youtube Videos
 
 # Chemical Equation Balancer Video
-https://youtu.be/pSnM2MWPOo4
+https://youtu.be/pSnM2MWPOo4?t=23
 
 # Molar Calculator Video
 https://www.youtube.com/watch?v=9KewBHvpYC0
