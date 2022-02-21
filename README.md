@@ -7,6 +7,15 @@ e.g.
 
 result: NaCl has a relative molar mass of :  58.442669280000004 grams
 
+./chemicalequationbalancer
+please input your reactants, this is case sensitive
+your input should look like: H2O+Ag3(Fe3O)4
+Reactants: N2 + O2
+please input your products, this is case sensitive
+Products: N2O2
+1N2 + 1O2 -> 1N2O2
+
+
 
 
 # to get started install requirements by running:
