@@ -28,7 +28,7 @@ chmod +x starter.sh
 
 # Youtube Videos
 
-# chemical Equation Balancer Video
+# Chemical Equation Balancer Video
 https://youtu.be/pSnM2MWPOo4
 
 # Molar Calculator Video
